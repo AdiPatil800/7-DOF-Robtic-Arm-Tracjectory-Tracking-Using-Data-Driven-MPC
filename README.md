@@ -125,8 +125,8 @@ kuka_mpc_project/
     * Otherwise, install manually:
         \`\`\`bash
         pip install numpy scipy pandas matplotlib torch # or tensorflow
-        # pip install casadi
-        # (Install other specific packages like PyBullet)
+        pip install casadi
+        (Install other specific packages like PyBullet)
         \`\`\`
     * **Note on IPOPT:** If using CasADi with IPOPT, IPOPT might need to be installed separately or via Conda. Refer to CasADi and IPOPT installation guides.
 
